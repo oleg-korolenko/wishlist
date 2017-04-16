@@ -3,17 +3,20 @@
     {
       "name": "gtx1080",
       "id": 1,
-      "description": ""
+      "description": "",
+      "done": false
     },
     {
       "name": "ktm 690smcr",
       "id": 2,
-      "description": ""
+      "description": "",
+      "done": false
     },
     {
       "name": "hifiman 400i",
       "id": 3,
-      "description": ""
+      "description": "",
+      "done": false
     }
   ]
 }
