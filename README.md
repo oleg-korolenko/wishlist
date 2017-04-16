@@ -1,7 +1,8 @@
 # wishlist
+Playing with Vue.js, Vuex.js
 
 > Nuxt.js project
-Playing with Vue.js, Vuex.js
+
 ## Build Setup
 
 ``` bash
